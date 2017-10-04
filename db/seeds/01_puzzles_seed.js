@@ -1,13 +1,6 @@
 const models = require('../models');
 const server = require('../../server/app');
 
-// let username;
-//
-// exports.getUsername (username) => {
-//   username = JSON.parse(username);
-// }
-
-
 exports.seed = function (knex, Promise) {
 
 
